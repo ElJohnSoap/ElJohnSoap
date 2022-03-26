@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Vadim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!--### Hi there 👋-->
+
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
 <!--
